@@ -29,7 +29,7 @@
 
 <div align="center">
 
- <details><summary><h2>The manual way:  [click to open]</h2><br /><h4>(The manual documentation can be confusing, please contact us in the <a href="https://discord.com/invite/rURmwrzUcz">Discord server</a> if you get stuck)</h4></summary>
+ <summary><h2>The manual way:  [click to open]</h2><br /><h4>(The manual documentation can be confusing, please contact us in the <a href="https://discord.com/invite/rURmwrzUcz">Discord server</a> if you get stuck)</h4></summary>
 
 <img src="mod-data-detailed-example.png" alt="Example details" width="500">
 
@@ -308,7 +308,5 @@ I am supporting the people who have donated to the Optifine Dev
   features enabled.
 
 </div>
-
-</details>
 
 </div>
